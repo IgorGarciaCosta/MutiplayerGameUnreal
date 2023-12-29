@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\MultiplayerProj\\Source\\MultiplayerProj\\MultiplayerProj.Build.cs",
+		"C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\MultiplayerProj\\Source\\MultiplayerProj.Target.cs",
+		"C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\MultiplayerProj\\Source\\MultiplayerProjEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

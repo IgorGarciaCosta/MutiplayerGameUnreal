@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerProj.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\MultiplayerProjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\MultiplayerProj.init.gen.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\MultiplayerProjCharacter.gen.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\MultiplayerProjGameMode.gen.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\MultiplayerProj.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\MultiplayerProjCharacter.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\MultiplayerProjGameMode.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\Default.rc2.res"
+/OUT:"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\MultiplayerProj\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerProj\UnrealEditor-MultiplayerProj.lib"

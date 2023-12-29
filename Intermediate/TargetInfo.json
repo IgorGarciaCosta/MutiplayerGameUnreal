@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiplayerProj",
+			"Path": "C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\MultiplayerProj\\Source\\MultiplayerProj.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerProjEditor",
+			"Path": "C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\MultiplayerProj\\Source\\MultiplayerProjEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerproj\\uht\\multiplayerprojgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\intermediate\\build\\win64\\x64\\multiplayerprojeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerproj\\definitions.multiplayerproj.h",
+            "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\source\\multiplayerproj\\multiplayerprojgamemode.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerproj\\uht\\multiplayerprojgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
