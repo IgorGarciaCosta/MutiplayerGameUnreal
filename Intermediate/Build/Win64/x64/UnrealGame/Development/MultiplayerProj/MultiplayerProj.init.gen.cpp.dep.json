@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\intermediate\\build\\win64\\unrealgame\\inc\\multiplayerproj\\uht\\multiplayerproj.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\intermediate\\build\\win64\\x64\\multiplayerproj\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\multiplayerproj\\intermediate\\build\\win64\\x64\\unrealgame\\development\\multiplayerproj\\definitions.multiplayerproj.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
